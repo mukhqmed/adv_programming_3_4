@@ -52,7 +52,7 @@ Users can navigate through multiple pages of barbers by entering the desired pag
 #### Aplly filter by status
 ![Aplly filter by status](filter_status.jpg)
 #### Aplly filter by experience
-![Apply filter by experience](filter_experience.jpg)
+![Apply filter by experience](filter_exp.jpg)
 #### Aplly sorting by name
 ![Apply sort by name](page1.jpg)
 #### Aplly sorting by price
