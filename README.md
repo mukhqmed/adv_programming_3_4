@@ -47,6 +47,4 @@ Barbers can be sorted by name or price by selecting the preferred sorting option
 
 Users can navigate through multiple pages of barbers by entering the desired page number in the input field.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
