@@ -45,10 +45,16 @@ Barbers can be sorted by name or price by selecting the preferred sorting option
 ### Pagination
 
 Users can navigate through multiple pages of barbers by entering the desired page number in the input field.
-##Screenshots
+
+## Screenshots
 ![Create table "barbers" in PostgreSql](photo_2024-02-02_00-23-19.jpg)
-![Description](image_link)
-![Description](image_link)
+![Aplly filter by status](image_link)
+![Apply filter by experience](image_link)
+![Apply sort by name](image_link)
+![Apply sort by price](image_link)
+![Change the page](image_link)
+
+
 
 
 
