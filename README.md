@@ -48,12 +48,22 @@ Users can navigate through multiple pages of barbers by entering the desired pag
 
 ## Screenshots
 #### Create table "barbers" in PostgreSql
-![Create table "barbers" in PostgreSql](photo_2024-02-02_00-23-19.jpg)
-![Aplly filter by status](image_link)
-![Apply filter by experience](image_link)
-![Apply sort by name](image_link)
-![Apply sort by price](image_link)
-![Change the page](image_link)
+![Create table "barbers" in PostgreSql](postgresql.jpg)
+#### Aplly filter by status
+![Aplly filter by status](filter_status.jpg)
+#### Aplly filter by experience
+![Apply filter by experience](filter-experience.jpg)
+#### Aplly sorting by name
+![Apply sort by name](page1.jpg)
+#### Aplly sorting by price
+![Apply sort by price](sort_price.jpg)
+#### Pagination
+Page - 1
+![Change the page](page1.jpg)
+ Page - 2
+![Change the page](page2.jpg)
+
+
 
 
 
