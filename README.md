@@ -7,7 +7,6 @@ This is a web application for a BarberShop implemented using Go, PostgreSQL, and
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
